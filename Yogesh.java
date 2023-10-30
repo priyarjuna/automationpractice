@@ -1,0 +1,40 @@
+class Arjun3
+{
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!am pooja");
+		System.out.println("where are you from,my name is arjun");
+		/*System.out.print("are you ok,my contact number is 7020690032");
+	System.out.println("Hello World!am pooja");
+		System.out.println("where are you from,my name is arjun");*/
+		}
+}
+class Yogesh
+{
+	public static void main(String[] args)
+	{
+		System.out.println("heloo");
+		int a=4,b=8, res;
+		System.out.println("first number: "+a);
+		System.out.println("second number: "+b);
+		System.out.println("addition: "+(a+b));
+	}
+}
+class Priya
+{
+public static void main(String[] args)
+	{
+	System.out.println("my name is ravan");
+int a,b,res ;
+a=20;b=10;
+	
+	res=a/b;
+	System.out.println("first number: "+a);
+	System.out.println("second number: "+b);
+	System.out.println("division: "+res);
+	}
+}
+
+
+
+
